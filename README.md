@@ -4,5 +4,5 @@ a.) Download and extract the file in the Specified directory.
 b.) Now Open Command Prompt and Changed the Directory to this specified Path.
 c.) Now Build using this Command dotnet Build
 d.) now Run using this Command dotnet run
-e.)
+
                                                                 **Thanks**
